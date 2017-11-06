@@ -130,6 +130,11 @@ h2 {
     justify-content: flex-end;
 }
 
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+}
+
 .bottons-box {
     width: 160px;
     display: flex;
